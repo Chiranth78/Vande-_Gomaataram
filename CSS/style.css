@@ -779,6 +779,10 @@ html {
 }
 
 .logo {
+  .logo__img {
+    width: 48px;   /* or any smaller value you prefer */
+    height: auto;
+}
   display: flex;
   flex-direction: column;
 }
