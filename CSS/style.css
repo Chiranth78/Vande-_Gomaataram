@@ -780,7 +780,7 @@ html {
 
 .logo {
   .logo__img {
-    width: 48px;   /* or any smaller value you prefer */
+    width: 48px;   
     height: auto;
 }
   display: flex;
